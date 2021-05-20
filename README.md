@@ -8,7 +8,7 @@
 1. MobileNetV2
 - ![image](https://user-images.githubusercontent.com/67474818/118992634-709b5280-b9a2-11eb-9fe3-4c0fa588628e.png)
 2. InceptionV3
-- ![image](https://user-images.githubusercontent.com/67474818/118993703-5f067a80-b9a3-11eb-96a1-2fc63f273d71.png)
+- ![image](https://user-images.githubusercontent.com/67474818/118996780-c8878880-b9a5-11eb-8e30-9a19ee6de1ab.png)
 3. ResNet50
 - ![image](https://user-images.githubusercontent.com/67474818/118994410-eeac2900-b9a3-11eb-808c-50293860f640.png)
 4. VGG19
