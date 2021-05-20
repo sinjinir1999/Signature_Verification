@@ -10,8 +10,6 @@ The Project is conducted using a benchmarking Signature Verification Dataset:
 - ![image](https://user-images.githubusercontent.com/67474818/118996950-e7861a80-b9a5-11eb-9bc3-a5bf7d9e16b8.png)
 3. ResNet50
 - ![image](https://user-images.githubusercontent.com/67474818/118994410-eeac2900-b9a3-11eb-808c-50293860f640.png)
-4. VGG19
-- ![image](https://user-images.githubusercontent.com/67474818/118994864-4d71a280-b9a4-11eb-9ccd-0c6f26c70555.png)
 ## WRITER INDEPENDENT SIGNATURE VERIFICATION | RESULTS
 1. MobileNetV2 (SigComp Data)
 - Training Accuracy = 100%
