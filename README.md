@@ -1,6 +1,6 @@
 # WRITER INDEPENDENT SIGNATURE VERIFICATION
 ## WRITER INDEPENDENT SIGNATURE VERIFICATION | DATA
-- The Project is conducted using a benchmarking Signature Verification Datasets: 
+The Project is conducted using a benchmarking Signature Verification Dataset: 
 - SigComp'2011 Data
 - ![image](https://user-images.githubusercontent.com/67474818/119025726-072b3c00-b9c2-11eb-9b39-b34854647156.png)
 
