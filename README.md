@@ -2,7 +2,7 @@
 ## WRITER INDEPENDENT SIGNATURE VERIFICATION | DATA
 The Project is conducted using a benchmarking Signature Verification Dataset: 
 - SigComp'2011 Data
-- ![image](https://user-images.githubusercontent.com/67474818/119025726-072b3c00-b9c2-11eb-9b39-b34854647156.png)
+[image](https://user-images.githubusercontent.com/67474818/119025726-072b3c00-b9c2-11eb-9b39-b34854647156.png)
 
 
 ## WRITER INDEPENDENT SIGNATURE VERIFICATION | METHODOLOGY
@@ -19,15 +19,15 @@ The Project is conducted using a benchmarking Signature Verification Dataset:
 1. MobileNetV2 (SigComp Data)
 - Training Accuracy = 100%
 - Test Accuracy = 100%
-- ![image](https://user-images.githubusercontent.com/67474818/119028275-e57f8400-b9c4-11eb-95c4-08a7302da1d7.png)
+![image](https://user-images.githubusercontent.com/67474818/119028275-e57f8400-b9c4-11eb-95c4-08a7302da1d7.png)
 2. InceptionV3 (SigComp Data)
 - Training Accuracy = 100%
 - Test Accuracy = 100%
-- ![image](https://user-images.githubusercontent.com/67474818/119028715-69397080-b9c5-11eb-8373-27c7b6c66c0a.png)
+[image](https://user-images.githubusercontent.com/67474818/119028715-69397080-b9c5-11eb-8373-27c7b6c66c0a.png)
 3. ResNet50 (SigComp Data)
 - Training Accuracy = 99.13%
 - Test Accuracy = 99.20%
-- ![image](https://user-images.githubusercontent.com/67474818/119029076-d0efbb80-b9c5-11eb-949a-d827eec3c2cb.png)
+![image](https://user-images.githubusercontent.com/67474818/119029076-d0efbb80-b9c5-11eb-949a-d827eec3c2cb.png)
 
 
 
