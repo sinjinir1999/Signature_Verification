@@ -2,7 +2,10 @@
 ## WRITER INDEPENDENT SIGNATURE VERIFICATION | DATA
 - The Project is conducted using two benchmarking Signature Verification Datasets:
 1. SigComp'2011 Data
+- ![image](https://user-images.githubusercontent.com/67474818/119025726-072b3c00-b9c2-11eb-9b39-b34854647156.png)
 2. MCYT-100 Data
+- ![image](https://user-images.githubusercontent.com/67474818/119025591-e95dd700-b9c1-11eb-8e49-b4f410dd0586.png)
+
 ## WRITER INDEPENDENT SIGNATURE VERIFICATION | METHODOLOGY
 - The aim of the project is to review the presented Signature Verification/Recognition methods based on Convolutional Neural Networks and evaluate the performance of some the prominent available Deep Convolutional Neural Networks in Writer Independent Signature Verification/Recognition.This is done using four Pre-trained Models: 
 1. MobileNetV2
