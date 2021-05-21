@@ -11,15 +11,15 @@ The Project is conducted using a benchmarking Signature Verification Dataset:
 3. ResNet50
 - ![image](https://user-images.githubusercontent.com/67474818/118994410-eeac2900-b9a3-11eb-808c-50293860f640.png)
 ## WRITER INDEPENDENT SIGNATURE VERIFICATION | RESULTS
-1. MobileNetV2 (SigComp Data)
+1. MobileNetV2 
 - Training Accuracy = 100%
 - Test Accuracy = 100%
 - ![image](https://user-images.githubusercontent.com/67474818/119028275-e57f8400-b9c4-11eb-95c4-08a7302da1d7.png)
-2. InceptionV3 (SigComp Data)
+2. InceptionV3 
 - Training Accuracy = 100%
 - Test Accuracy = 100%
 - ![image](https://user-images.githubusercontent.com/67474818/119028715-69397080-b9c5-11eb-8373-27c7b6c66c0a.png)
-3. ResNet50 (SigComp Data)
+3. ResNet50 
 - Training Accuracy = 99.13%
 - Test Accuracy = 99.20%
 - ![image](https://user-images.githubusercontent.com/67474818/119029076-d0efbb80-b9c5-11eb-949a-d827eec3c2cb.png)
