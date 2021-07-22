@@ -13,13 +13,14 @@ The Project is conducted using a benchmarking Signature Verification Dataset:
 ## WRITER INDEPENDENT SIGNATURE VERIFICATION | RESULTS
 1. MobileNetV2 Convolution Neural Network
 - Accuracy = 82.20 %
-- ![image](https://user-images.githubusercontent.com/67474818/119028275-e57f8400-b9c4-11eb-95c4-08a7302da1d7.png)
+- ![image](https://user-images.githubusercontent.com/67474818/126691041-cf6ff78b-d180-4b06-8673-2d5baeca44ca.png)
 2. InceptionV3 Convolution Neural Network
 - Accuracy = 73.60 %
-- ![image](https://user-images.githubusercontent.com/67474818/119028715-69397080-b9c5-11eb-8373-27c7b6c66c0a.png)
+- ![image](https://user-images.githubusercontent.com/67474818/126691166-fff23602-ef1b-411e-af5a-dca097599868.png)
 3. ResNet50 Convolution Neural Network
 - Accuracy = 85.20 %
-- ![image](https://user-images.githubusercontent.com/67474818/119029076-d0efbb80-b9c5-11eb-949a-d827eec3c2cb.png)
+- ![image](https://user-images.githubusercontent.com/67474818/126690834-84cadf6c-6d4c-4db2-8881-80d6c708e332.png)
+
 
 
 
